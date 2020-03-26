@@ -27,7 +27,7 @@ main section#caja-principal article:nth-child(1) {
     float: left;
     
     /* En la versión Escritorio cargamos la imagen desde el fondo de la primera caja article, usando CSS, para que luego en la versión Responsive ocultemos esta versión y la mostremos desde el HTML. Esto se hace como un truco de Resposive para que siempre la imagen ocupe el 55% establecido. */
-    background: url('../img/imagen.jpg') no-repeat top center #fff;
+    background: url('../img/gato.jpg') no-repeat top center #fff;
     background-size: cover;
 }
 main section#caja-principal article:nth-child(1) img {
