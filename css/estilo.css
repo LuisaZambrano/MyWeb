@@ -56,7 +56,7 @@ main section#caja-principal article:nth-child(2) h1 {
     float: none;
     position: relative;
     
-    font-family: 'Exo 2', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 2.35em;
     font-weight: 600;
     color: #fff;
@@ -72,7 +72,7 @@ main section#caja-principal article:nth-child(2) h2 {
     float: none;
     position: relative;
     
-    font-family: 'Exo 2', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 1em;
     font-weight: 500;
     color: #09f;
@@ -90,7 +90,7 @@ main section#caja-principal article:nth-child(2) a {
     float: none;
     position: relative;
     
-    font-family: 'Exo 2', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     text-align: center;
     text-decoration: none;
     padding: 12px 15px;
@@ -116,7 +116,7 @@ main section#caja-principal article:nth-child(2) p {
     float: none;
     position: relative;
     
-    font-family: 'Exo 2', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 1em;
     font-weight: 300;
     color: #fff;
@@ -152,7 +152,7 @@ main section#caja-principal article:nth-child(2) div#caja-info div.caja-texto:nt
 }
 
 main section#caja-principal article:nth-child(2) div#caja-info div.caja-texto h6 {
-    font-family: 'Exo 2', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 0.85em;
     font-weight: 300;
     color: #999;
@@ -164,7 +164,7 @@ main section#caja-principal article:nth-child(2) div#caja-info div.caja-texto h6
     text-transform: uppercase;
 }
 main section#caja-principal article:nth-child(2) div#caja-info div.caja-texto h4 {
-    font-family: 'Exo 2', sans-serif;
+    font-family: 'Montserrat', sans-serif;
     font-size: 1.15em;
     font-weight: 500;
     color: #09f;
