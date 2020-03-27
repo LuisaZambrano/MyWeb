@@ -46,7 +46,7 @@ main section#caja-principal article:nth-child(2) {
     float: right;
     
     /*Acá quise poner de color gris oscuro el fondo de la parte derecha*/
-    background: #111;
+    background: #7f8c8d;
 }
 main section#caja-principal article:nth-child(2) h1 {
     width: 80%;
@@ -75,7 +75,7 @@ main section#caja-principal article:nth-child(2) h2 {
     font-family: 'Montserrat', sans-serif;
     font-size: 1em;
     font-weight: 500;
-    color: #09f;
+    color: #2ecc71;
     text-align: left;
     line-height: 1em;
     padding: 8px 0 0 10%;
@@ -208,7 +208,7 @@ main section#caja-principal article:nth-child(2) nav a:hover {
     transition: all 0.15s ease-out;
 }
 main section#caja-principal article:nth-child(2) nav a:hover i {
-    color: #09f;
+    color: #2ecc71;
     transition: all 0.15s ease-out;
 }
 
